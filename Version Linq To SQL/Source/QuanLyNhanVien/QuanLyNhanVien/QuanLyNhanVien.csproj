@@ -1,0 +1,348 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{3461FDAD-A40B-4B6F-B221-32E748EC960B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>QuanLyNhanVien</RootNamespace>
+    <AssemblyName>QuanLyNhanVien</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu_UI_v1.5.3">
+      <HintPath>D:\Install Software\Visual Studio 2017\Bunifu UI V1.5.3 Crack\Bunifu_UI_v1.5.3.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.Data.v17.1, Version=17.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Printing.v17.1.Core, Version=17.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Utils.v17.1, Version=17.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.ReportViewer.Common, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.140.340.80\lib\net40\Microsoft.ReportViewer.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.DataVisualization, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.140.340.80\lib\net40\Microsoft.ReportViewer.DataVisualization.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Design, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.140.340.80\lib\net40\Microsoft.ReportViewer.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.ProcessingObjectModel, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.140.340.80\lib\net40\Microsoft.ReportViewer.ProcessingObjectModel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.140.340.80\lib\net40\Microsoft.ReportViewer.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.Types, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.SqlServer.Types.14.0.314.76\lib\net40\Microsoft.SqlServer.Types.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Remoting" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="UIAutomationClient" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="fFunction.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fFunction.Designer.cs">
+      <DependentUpon>fFunction.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fLogin.Designer.cs">
+      <DependentUpon>fLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fMain.Designer.cs">
+      <DependentUpon>fMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fReport.Designer.cs">
+      <DependentUpon>fReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SqlServerTypes\Loader.cs" />
+    <Compile Include="ucCIty.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucCIty.Designer.cs">
+      <DependentUpon>ucCIty.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucDepartment.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucDepartment.Designer.cs">
+      <DependentUpon>ucDepartment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucEmployee.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucEmployee.Designer.cs">
+      <DependentUpon>ucEmployee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucFamily.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucFamily.Designer.cs">
+      <DependentUpon>ucFamily.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucFunctionEmployee.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucFunctionEmployee.Designer.cs">
+      <DependentUpon>ucFunctionEmployee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucProject.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucProject.Designer.cs">
+      <DependentUpon>ucProject.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucReportAccount.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucReportAccount.Designer.cs">
+      <DependentUpon>ucReportAccount.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucReportCity.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucReportCity.Designer.cs">
+      <DependentUpon>ucReportCity.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucReportDepartment.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucReportDepartment.Designer.cs">
+      <DependentUpon>ucReportDepartment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucReportFamily.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucReportFamily.Designer.cs">
+      <DependentUpon>ucReportFamily.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucReportProject.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucReportProject.Designer.cs">
+      <DependentUpon>ucReportProject.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="fFunction.resx">
+      <DependentUpon>fFunction.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fLogin.resx">
+      <DependentUpon>fLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fMain.resx">
+      <DependentUpon>fMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fReport.resx">
+      <DependentUpon>fReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="ReportAccount.rdlc" />
+    <EmbeddedResource Include="ReportCity.rdlc" />
+    <EmbeddedResource Include="ReportDepartment.rdlc" />
+    <EmbeddedResource Include="ReportFamily.rdlc" />
+    <EmbeddedResource Include="ReportProject.rdlc" />
+    <EmbeddedResource Include="ucCIty.resx">
+      <DependentUpon>ucCIty.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucDepartment.resx">
+      <DependentUpon>ucDepartment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucEmployee.resx">
+      <DependentUpon>ucEmployee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucFamily.resx">
+      <DependentUpon>ucFamily.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucFunctionEmployee.resx">
+      <DependentUpon>ucFunctionEmployee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucProject.resx">
+      <DependentUpon>ucProject.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucReportAccount.resx">
+      <DependentUpon>ucReportAccount.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucReportCity.resx">
+      <DependentUpon>ucReportCity.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucReportDepartment.resx">
+      <DependentUpon>ucReportDepartment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucReportFamily.resx">
+      <DependentUpon>ucReportFamily.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucReportProject.resx">
+      <DependentUpon>ucReportProject.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\DataSources\DAL.City.datasource" />
+    <None Include="Properties\DataSources\DAL.Department.datasource" />
+    <None Include="Properties\DataSources\DAL.Employee.datasource" />
+    <None Include="Properties\DataSources\DAL.Family.datasource" />
+    <None Include="Properties\DataSources\DAL.Project.datasource" />
+    <None Include="Properties\DataSources\DAL.QLNVDataContext.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cancel.png" />
+    <None Include="Resources\checked.png" />
+    <None Include="Resources\close.png" />
+    <None Include="Resources\account.png" />
+    <None Include="Resources\key.png" />
+    <None Include="Resources\man.png" />
+    <None Include="Resources\email.png" />
+    <None Include="Resources\smartphone.png" />
+    <None Include="Resources\enlarge.png" />
+    <None Include="Resources\substract.png" />
+    <None Include="Resources\redline.png" />
+    <None Include="Resources\user.png" />
+    <None Include="Resources\lotus.png" />
+    <None Include="Resources\building.png" />
+    <None Include="Resources\family.png" />
+    <None Include="Resources\projection.png" />
+    <None Include="Resources\verification.png" />
+    <None Include="Resources\working.png" />
+    <None Include="Resources\copyright.png" />
+    <None Include="Resources\left-arrow %281%29.png" />
+    <None Include="Resources\refresh.png" />
+    <None Include="Resources\right-arrow %281%29.png" />
+    <None Include="Resources\support.png" />
+    <None Include="Resources\one %286%29.png" />
+    <None Include="Resources\one %284%29.png" />
+    <None Include="Resources\one %285%29.png" />
+    <None Include="Resources\exit.png" />
+    <None Include="Resources\gender.png" />
+    <None Include="Resources\leadership.png" />
+    <None Include="Resources\letter.png" />
+    <None Include="Resources\place.png" />
+    <None Include="Resources\quill-drawing-a-line.png" />
+    <None Include="Resources\administrator.png" />
+    <None Include="Resources\businessman %281%29.png" />
+    <None Include="Resources\businessman %282%29.png" />
+    <None Include="Resources\diagram.png" />
+    <None Include="Resources\euro.png" />
+    <None Include="Resources\phone-call.png" />
+    <None Include="Resources\user %286%29.png" />
+    <None Include="Resources\user %287%29.png" />
+    <None Include="Resources\user %288%29.png" />
+    <None Include="Resources\user %289%29.png" />
+    <None Include="Resources\user %2810%29.png" />
+    <None Include="Resources\folder %284%29.png" />
+    <None Include="Resources\folder.png" />
+    <None Include="Resources\folder %281%29.png" />
+    <None Include="Resources\folder %282%29.png" />
+    <None Include="Resources\folder %283%29.png" />
+    <None Include="Resources\strategy.png" />
+    <None Include="Resources\door.png" />
+    <None Include="Resources\satellite-station.png" />
+    <None Include="Resources\satellite-dish.png" />
+    <None Include="Resources\wifi.png" />
+    <None Include="Resources\wireless.png" />
+    <None Include="Resources\antenna.png" />
+    <None Include="Resources\relationship.png" />
+    <None Include="Resources\grandparents.png" />
+    <None Include="Resources\couple %282%29.png" />
+    <None Include="Resources\couple %283%29.png" />
+    <None Include="Resources\couple %281%29.png" />
+    <None Include="Resources\couple.png" />
+    <None Include="Resources\database %286%29.png" />
+    <None Include="Resources\database %282%29.png" />
+    <None Include="Resources\database %283%29.png" />
+    <None Include="Resources\database %284%29.png" />
+    <None Include="Resources\database %285%29.png" />
+    <None Include="Resources\file.png" />
+    <None Include="Resources\project.png" />
+    <None Include="Resources\loadinggif2.gif" />
+    <None Include="Resources\loading_processing_1.gif" />
+    <None Include="Resources\ezgif.com-resize %283%29.gif" />
+    <Content Include="SqlServerTypes\readme.htm" />
+    <Content Include="SqlServerTypes\x64\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x64\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BUS\BUS.csproj">
+      <Project>{c0eecc71-a652-401e-b87c-05aad12f9539}</Project>
+      <Name>BUS</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DAL\DAL.csproj">
+      <Project>{0be32d11-f725-4534-a663-6eccb0342e66}</Project>
+      <Name>DAL</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -1,0 +1,228 @@
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.csprojResolveAssemblyReference.cache
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.Properties.Resources.resources
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.csproj.GenerateResource.cache
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.csproj.CoreCompileInputs.cache
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\QuanLyNhanVien.exe.config
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\QuanLyNhanVien.exe
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\QuanLyNhanVien.pdb
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\Bunifu_UI_v1.5.3.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\EnvDTE.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\stdole.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\Microsoft.MSXML.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.csproj.CopyComplete
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.exe
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.pdb
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.fLogin.resources
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.fMain.resources
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\BUS.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\DAL.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\BUS.pdb
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\DAL.pdb
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\DAL.dll.config
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.ucEmployee.resources
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.ucDepartment.resources
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.ucCIty.resources
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.ucFamily.resources
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.ucProject.resources
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.ucReportAccount.resources
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.ucReportCity.resources
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.ucReportDepartment.resources
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.ucReportFamily.resources
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.ucReportProject.resources
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.fReport.resources
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.fFunction.resources
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.ucFunctionEmployee.resources
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\DevExpress.Data.v17.1.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\DevExpress.Utils.v17.1.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\DevExpress.Data.v17.1.xml
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\DevExpress.Utils.v17.1.xml
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL (No Link Between Table)\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL (No Link Between Table)\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL (No Link Between Table)\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL (No Link Between Table)\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL (No Link Between Table)\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\QuanLyNhanVien.exe.config
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL (No Link Between Table)\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\QuanLyNhanVien.exe
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL (No Link Between Table)\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\QuanLyNhanVien.pdb
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL (No Link Between Table)\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\Bunifu_UI_v1.5.3.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL (No Link Between Table)\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\BUS.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL (No Link Between Table)\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\DAL.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL (No Link Between Table)\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\DevExpress.Data.v17.1.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL (No Link Between Table)\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL (No Link Between Table)\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\DevExpress.Utils.v17.1.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL (No Link Between Table)\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL (No Link Between Table)\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL (No Link Between Table)\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL (No Link Between Table)\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL (No Link Between Table)\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL (No Link Between Table)\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL (No Link Between Table)\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL (No Link Between Table)\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\EnvDTE.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL (No Link Between Table)\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL (No Link Between Table)\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL (No Link Between Table)\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\stdole.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL (No Link Between Table)\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL (No Link Between Table)\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL (No Link Between Table)\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL (No Link Between Table)\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\Microsoft.MSXML.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL (No Link Between Table)\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\BUS.pdb
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL (No Link Between Table)\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\DAL.pdb
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL (No Link Between Table)\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\DAL.dll.config
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL (No Link Between Table)\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\DevExpress.Data.v17.1.xml
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL (No Link Between Table)\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL (No Link Between Table)\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\DevExpress.Utils.v17.1.xml
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL (No Link Between Table)\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL (No Link Between Table)\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL (No Link Between Table)\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL (No Link Between Table)\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL (No Link Between Table)\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL (No Link Between Table)\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL (No Link Between Table)\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL (No Link Between Table)\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL (No Link Between Table)\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL (No Link Between Table)\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL (No Link Between Table)\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL (No Link Between Table)\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL (No Link Between Table)\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL (No Link Between Table)\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL (No Link Between Table)\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL (No Link Between Table)\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL (No Link Between Table)\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL (No Link Between Table)\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL (No Link Between Table)\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL (No Link Between Table)\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL (No Link Between Table)\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL (No Link Between Table)\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL (No Link Between Table)\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL (No Link Between Table)\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL (No Link Between Table)\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL (No Link Between Table)\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL (No Link Between Table)\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL (No Link Between Table)\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL (No Link Between Table)\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL (No Link Between Table)\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL (No Link Between Table)\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL (No Link Between Table)\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL (No Link Between Table)\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL (No Link Between Table)\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL (No Link Between Table)\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL (No Link Between Table)\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL (No Link Between Table)\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL (No Link Between Table)\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL (No Link Between Table)\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL (No Link Between Table)\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL (No Link Between Table)\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL (No Link Between Table)\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL (No Link Between Table)\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL (No Link Between Table)\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL (No Link Between Table)\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL (No Link Between Table)\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL (No Link Between Table)\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL (No Link Between Table)\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL (No Link Between Table)\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL (No Link Between Table)\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL (No Link Between Table)\Source\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL (No Link Between Table)\Source\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.csprojResolveAssemblyReference.cache
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL (No Link Between Table)\Source\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.fFunction.resources
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL (No Link Between Table)\Source\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.fLogin.resources
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL (No Link Between Table)\Source\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.fMain.resources
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL (No Link Between Table)\Source\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.fReport.resources
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL (No Link Between Table)\Source\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.Properties.Resources.resources
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL (No Link Between Table)\Source\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.ucCIty.resources
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL (No Link Between Table)\Source\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.ucDepartment.resources
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL (No Link Between Table)\Source\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.ucEmployee.resources
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL (No Link Between Table)\Source\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.ucFamily.resources
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL (No Link Between Table)\Source\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.ucFunctionEmployee.resources
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL (No Link Between Table)\Source\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.ucProject.resources
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL (No Link Between Table)\Source\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.ucReportAccount.resources
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL (No Link Between Table)\Source\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.ucReportCity.resources
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL (No Link Between Table)\Source\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.ucReportDepartment.resources
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL (No Link Between Table)\Source\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.ucReportFamily.resources
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL (No Link Between Table)\Source\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.ucReportProject.resources
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL (No Link Between Table)\Source\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.csproj.GenerateResource.cache
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL (No Link Between Table)\Source\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.csproj.CoreCompileInputs.cache
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL (No Link Between Table)\Source\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.csproj.CopyComplete
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL (No Link Between Table)\Source\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.exe
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL (No Link Between Table)\Source\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.pdb

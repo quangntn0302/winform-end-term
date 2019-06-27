@@ -1,0 +1,18 @@
+E:\Projects\Projects At School\ProjectWP\End Semester\Version ADO\Source\CoffeeManager\DAO\bin\Debug\DAO.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version ADO\Source\CoffeeManager\DAO\bin\Debug\DAO.pdb
+E:\Projects\Projects At School\ProjectWP\End Semester\Version ADO\Source\CoffeeManager\DAO\bin\Debug\DTO.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version ADO\Source\CoffeeManager\DAO\bin\Debug\DTO.pdb
+E:\Projects\Projects At School\ProjectWP\End Semester\Version ADO\Source\CoffeeManager\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+E:\Projects\Projects At School\ProjectWP\End Semester\Version ADO\Source\CoffeeManager\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+E:\Projects\Projects At School\ProjectWP\End Semester\Version ADO\Source\CoffeeManager\DAO\obj\Debug\DAO.csproj.CopyComplete
+E:\Projects\Projects At School\ProjectWP\End Semester\Version ADO\Source\CoffeeManager\DAO\obj\Debug\DAO.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version ADO\Source\CoffeeManager\DAO\obj\Debug\DAO.pdb
+D:\Study\Project\winform\End Semester\End Semester\Version ADO\Source\CoffeeManager\DAO\bin\Debug\DAO.dll
+D:\Study\Project\winform\End Semester\End Semester\Version ADO\Source\CoffeeManager\DAO\bin\Debug\DAO.pdb
+D:\Study\Project\winform\End Semester\End Semester\Version ADO\Source\CoffeeManager\DAO\bin\Debug\DTO.dll
+D:\Study\Project\winform\End Semester\End Semester\Version ADO\Source\CoffeeManager\DAO\bin\Debug\DTO.pdb
+D:\Study\Project\winform\End Semester\End Semester\Version ADO\Source\CoffeeManager\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+D:\Study\Project\winform\End Semester\End Semester\Version ADO\Source\CoffeeManager\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+D:\Study\Project\winform\End Semester\End Semester\Version ADO\Source\CoffeeManager\DAO\obj\Debug\DAO.csproj.CopyComplete
+D:\Study\Project\winform\End Semester\End Semester\Version ADO\Source\CoffeeManager\DAO\obj\Debug\DAO.dll
+D:\Study\Project\winform\End Semester\End Semester\Version ADO\Source\CoffeeManager\DAO\obj\Debug\DAO.pdb

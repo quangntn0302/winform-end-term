@@ -1,0 +1,12 @@
+E:\Projects\Projects At School\ProjectWP\End Semester\Version ADO\Source\CoffeeManager\DTO\bin\Debug\DTO.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version ADO\Source\CoffeeManager\DTO\bin\Debug\DTO.pdb
+E:\Projects\Projects At School\ProjectWP\End Semester\Version ADO\Source\CoffeeManager\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+E:\Projects\Projects At School\ProjectWP\End Semester\Version ADO\Source\CoffeeManager\DTO\obj\Debug\DTO.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version ADO\Source\CoffeeManager\DTO\obj\Debug\DTO.pdb
+E:\Projects\Projects At School\ProjectWP\End Semester\Version ADO\Source\CoffeeManager\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+D:\Study\Project\winform\End Semester\End Semester\Version ADO\Source\CoffeeManager\DTO\bin\Debug\DTO.dll
+D:\Study\Project\winform\End Semester\End Semester\Version ADO\Source\CoffeeManager\DTO\bin\Debug\DTO.pdb
+D:\Study\Project\winform\End Semester\End Semester\Version ADO\Source\CoffeeManager\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+D:\Study\Project\winform\End Semester\End Semester\Version ADO\Source\CoffeeManager\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\Study\Project\winform\End Semester\End Semester\Version ADO\Source\CoffeeManager\DTO\obj\Debug\DTO.dll
+D:\Study\Project\winform\End Semester\End Semester\Version ADO\Source\CoffeeManager\DTO\obj\Debug\DTO.pdb

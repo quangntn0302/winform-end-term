@@ -1,0 +1,7 @@
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\DAL\bin\Debug\DAL.dll.config
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\DAL\bin\Debug\DAL.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\DAL\bin\Debug\DAL.pdb
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\DAL\obj\Debug\DAL.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\DAL\obj\Debug\DAL.pdb

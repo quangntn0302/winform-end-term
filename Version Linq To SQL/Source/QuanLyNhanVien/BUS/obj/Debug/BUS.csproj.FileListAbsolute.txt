@@ -1,0 +1,20 @@
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\BUS\bin\Debug\BUS.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\BUS\bin\Debug\BUS.pdb
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\BUS\bin\Debug\DAL.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\BUS\bin\Debug\DAL.pdb
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\BUS\bin\Debug\DAL.dll.config
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\BUS\obj\Debug\BUS.csproj.CopyComplete
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\BUS\obj\Debug\BUS.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL\Source\QuanLyNhanVien\BUS\obj\Debug\BUS.pdb
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL (No Link Between Table)\Source\QuanLyNhanVien\BUS\bin\Debug\BUS.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL (No Link Between Table)\Source\QuanLyNhanVien\BUS\bin\Debug\BUS.pdb
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL (No Link Between Table)\Source\QuanLyNhanVien\BUS\bin\Debug\DAL.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL (No Link Between Table)\Source\QuanLyNhanVien\BUS\bin\Debug\DAL.pdb
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL (No Link Between Table)\Source\QuanLyNhanVien\BUS\bin\Debug\DAL.dll.config
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL (No Link Between Table)\Source\QuanLyNhanVien\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL (No Link Between Table)\Source\QuanLyNhanVien\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL (No Link Between Table)\Source\QuanLyNhanVien\BUS\obj\Debug\BUS.csproj.CopyComplete
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL (No Link Between Table)\Source\QuanLyNhanVien\BUS\obj\Debug\BUS.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version Linq To SQL (No Link Between Table)\Source\QuanLyNhanVien\BUS\obj\Debug\BUS.pdb

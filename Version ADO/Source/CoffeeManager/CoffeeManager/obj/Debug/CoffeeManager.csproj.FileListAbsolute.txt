@@ -1,0 +1,182 @@
+E:\Projects\Projects At School\ProjectWP\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\CoffeeManager.exe.config
+E:\Projects\Projects At School\ProjectWP\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\CoffeeManager.exe
+E:\Projects\Projects At School\ProjectWP\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\CoffeeManager.pdb
+E:\Projects\Projects At School\ProjectWP\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\EnvDTE.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\stdole.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\Microsoft.MSXML.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.csprojResolveAssemblyReference.cache
+E:\Projects\Projects At School\ProjectWP\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.fLogin.resources
+E:\Projects\Projects At School\ProjectWP\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.Properties.Resources.resources
+E:\Projects\Projects At School\ProjectWP\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.csproj.GenerateResource.cache
+E:\Projects\Projects At School\ProjectWP\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.csproj.CoreCompileInputs.cache
+E:\Projects\Projects At School\ProjectWP\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.csproj.CopyComplete
+E:\Projects\Projects At School\ProjectWP\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.exe
+E:\Projects\Projects At School\ProjectWP\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.pdb
+E:\Projects\Projects At School\ProjectWP\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\Bunifu_UI_v1.5.3.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\DAO.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\DTO.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\DAO.pdb
+E:\Projects\Projects At School\ProjectWP\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\DTO.pdb
+E:\Projects\Projects At School\ProjectWP\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.fTableManager.resources
+E:\Projects\Projects At School\ProjectWP\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\DevComponents.DotNetBar2.dll
+E:\Projects\Projects At School\ProjectWP\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\DevComponents.DotNetBar2.xml
+E:\Projects\Projects At School\ProjectWP\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.fAccountProfile.resources
+E:\Projects\Projects At School\ProjectWP\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.fAdmin.resources
+E:\Projects\Projects At School\ProjectWP\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.ucBill.resources
+E:\Projects\Projects At School\ProjectWP\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.ucFood.resources
+E:\Projects\Projects At School\ProjectWP\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.ucTableFood.resources
+E:\Projects\Projects At School\ProjectWP\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.ucFoodCategory.resources
+E:\Projects\Projects At School\ProjectWP\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.fReportBill.resources
+D:\Study\Project\winform\End Semester\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Study\Project\winform\End Semester\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Study\Project\winform\End Semester\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Study\Project\winform\End Semester\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Study\Project\winform\End Semester\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\CoffeeManager.exe.config
+D:\Study\Project\winform\End Semester\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\CoffeeManager.exe
+D:\Study\Project\winform\End Semester\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\CoffeeManager.pdb
+D:\Study\Project\winform\End Semester\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\DAO.dll
+D:\Study\Project\winform\End Semester\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\DTO.dll
+D:\Study\Project\winform\End Semester\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Study\Project\winform\End Semester\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Study\Project\winform\End Semester\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Study\Project\winform\End Semester\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Study\Project\winform\End Semester\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Study\Project\winform\End Semester\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Study\Project\winform\End Semester\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\EnvDTE.dll
+D:\Study\Project\winform\End Semester\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Study\Project\winform\End Semester\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Study\Project\winform\End Semester\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\stdole.dll
+D:\Study\Project\winform\End Semester\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Study\Project\winform\End Semester\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Study\Project\winform\End Semester\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Study\Project\winform\End Semester\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\Microsoft.MSXML.dll
+D:\Study\Project\winform\End Semester\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\DAO.pdb
+D:\Study\Project\winform\End Semester\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\DTO.pdb
+D:\Study\Project\winform\End Semester\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\DevComponents.DotNetBar2.xml
+D:\Study\Project\winform\End Semester\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Study\Project\winform\End Semester\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Study\Project\winform\End Semester\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Study\Project\winform\End Semester\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Study\Project\winform\End Semester\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Study\Project\winform\End Semester\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Study\Project\winform\End Semester\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Study\Project\winform\End Semester\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Study\Project\winform\End Semester\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Study\Project\winform\End Semester\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Study\Project\winform\End Semester\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+D:\Study\Project\winform\End Semester\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+D:\Study\Project\winform\End Semester\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Study\Project\winform\End Semester\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Study\Project\winform\End Semester\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Study\Project\winform\End Semester\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Study\Project\winform\End Semester\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Study\Project\winform\End Semester\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Study\Project\winform\End Semester\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Study\Project\winform\End Semester\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Study\Project\winform\End Semester\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Study\Project\winform\End Semester\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Study\Project\winform\End Semester\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Study\Project\winform\End Semester\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Study\Project\winform\End Semester\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Study\Project\winform\End Semester\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Study\Project\winform\End Semester\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Study\Project\winform\End Semester\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Study\Project\winform\End Semester\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Study\Project\winform\End Semester\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Study\Project\winform\End Semester\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Study\Project\winform\End Semester\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Study\Project\winform\End Semester\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Study\Project\winform\End Semester\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Study\Project\winform\End Semester\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+D:\Study\Project\winform\End Semester\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+D:\Study\Project\winform\End Semester\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Study\Project\winform\End Semester\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Study\Project\winform\End Semester\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Study\Project\winform\End Semester\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Study\Project\winform\End Semester\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Study\Project\winform\End Semester\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Study\Project\winform\End Semester\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Study\Project\winform\End Semester\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Study\Project\winform\End Semester\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Study\Project\winform\End Semester\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Study\Project\winform\End Semester\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Study\Project\winform\End Semester\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Study\Project\winform\End Semester\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.csprojAssemblyReference.cache
+D:\Study\Project\winform\End Semester\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.fAccountProfile.resources
+D:\Study\Project\winform\End Semester\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.fAdmin.resources
+D:\Study\Project\winform\End Semester\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.fLogin.resources
+D:\Study\Project\winform\End Semester\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.fReportBill.resources
+D:\Study\Project\winform\End Semester\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.fTableManager.resources
+D:\Study\Project\winform\End Semester\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.Properties.Resources.resources
+D:\Study\Project\winform\End Semester\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.ucBill.resources
+D:\Study\Project\winform\End Semester\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.ucFood.resources
+D:\Study\Project\winform\End Semester\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.ucFoodCategory.resources
+D:\Study\Project\winform\End Semester\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.ucTableFood.resources
+D:\Study\Project\winform\End Semester\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.csproj.GenerateResource.cache
+D:\Study\Project\winform\End Semester\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.csproj.CoreCompileInputs.cache
+D:\Study\Project\winform\End Semester\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.csproj.CopyComplete
+D:\Study\Project\winform\End Semester\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.exe
+D:\Study\Project\winform\End Semester\End Semester\Version ADO\Source\CoffeeManager\CoffeeManager\obj\Debug\CoffeeManager.pdb
